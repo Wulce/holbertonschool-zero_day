@@ -1,1 +1,1 @@
-this is empty
+this Directory have some commands of emacs like how paste o how i can cut some lines
