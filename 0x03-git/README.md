@@ -1,0 +1,1 @@
+In this part we put the information of what we are learn about git
